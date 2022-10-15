@@ -4,16 +4,14 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/marcus-almeida-a67403173/">Marcus  Junior</a>
   </h1>
+  <h3 align="center">
   
+    Graduando em Analise. Dev. de Sistema
+    Futuro Desenvolvedor Blockchain
+    Python Dev. Jr
+    Blockchain | Web 3 - Enthusiast
+    
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/Marcusvlajr">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcusvlajr&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcusvlajr&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
